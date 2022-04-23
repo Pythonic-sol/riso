@@ -1,1 +1,1 @@
-Python Cummunity on solana blockchain
+Python Community on solana blockchain
